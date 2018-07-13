@@ -1,437 +1,326 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
- <channel>
-  <language>FR-CA</language>
-  <title>LaPresse.ca - Accueil manchettes</title>
-  <description></description>
-  <link>http://www.lapresse.ca</link>
-  <lastBuildDate>Fri, 13 Jul 2018 08:53:54 -0400</lastBuildDate>
-  <image>
-   <url>http://static.lpcdn.ca/lpweb/lapresse/img/icon-logo-rss.gif</url>
-   <title>LaPresse.ca - Accueil manchettes</title>
-   <link>http://www.lapresse.ca</link>
-   <description>LaPresse.ca - Accueil manchettes</description>
-  </image>
-  <atom:link href="http://www.lapresse.ca" rel="self" type="application/rss+xml"/>
-  <item>
-   <title><![CDATA[Inondations 2017: Québec attend jusqu'à 245 millions d'Ottawa]]></title>
-   <enclosure length="339172" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562386-johanne-belanger-conjoint-daniel-levac.jpg" title="JohanneBelanger et son conjoint DanielLevac on reussit a garder leur maison au sec grace a l'aide de voisins pour installer une digue de sac de sable."/>
-   <link><![CDATA[http://www.lapresse.ca/actualites/national/201807/12/01-5189360-inondations-2017-quebec-attend-jusqua-245-millions-dottawa.php]]></link>
-   <guid isPermaLink="false">article-5189360</guid>
-   <description><![CDATA[Québec s'attend à recevoir jusqu'à 245 millions d'Ottawa à la suite des inondations du printemps 2017, a appris <em>La Presse</em>. En raison de l'ampleur des dommages, le gouvernement fédéral a accepté de couvrir une partie des 376,6 millions que la catastrophe pourrait coûter à la province.]]></description>
-   <pubDate>Fri, 13 Jul 2018 05:00:00 -0400</pubDate>
-   <dc:creator><![CDATA[Pierre-André Normandin]]></dc:creator>
-   <dc:source><![CDATA[La Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[SQDC: des agents de sécurité pour vérifier l'âge des clients]]></title>
-   <enclosure length="64078" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562392-differents-appels-offres-diffuses-saq.jpg" title="Différents appels d'offres diffusés par la SAQ indiquent qu'elle planifie ouvrir plus ou moins 48 succursales de sa filiale destinée à la vente de cannabis d'ici août 2019."/>
-   <link><![CDATA[http://www.lapresse.ca/actualites/201807/12/01-5189361-sqdc-des-agents-de-securite-pour-verifier-lage-des-clients.php]]></link>
-   <guid isPermaLink="false">article-5189361</guid>
-   <description><![CDATA[Le dispositif de sécurité entourant les succursales de la Société québécoise du cannabis se précise. Ce sont des agents de sécurité travaillant pour une firme externe qui devront « carter tous les clients » pour s'assurer qu'ils sont majeurs, révèle un appel d'offres récemment publié par la SAQ.]]></description>
-   <pubDate>Fri, 13 Jul 2018 05:00:00 -0400</pubDate>
-   <dc:creator><![CDATA[Tristan Péloquin]]></dc:creator>
-   <dc:source><![CDATA[La Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[Une vraie fausse nouvelle partagée au nom de la science]]></title>
-   <enclosure length="58217" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562426-organisation-pour-science-societe-universite.jpg" title="L'Organisation pour la science et la société de l'Université McGill a réuni tous les ingrédients pour propager une vraie fausse nouvelle. En deux semaines, la courte vidéo lancée sur les réseaux sociaux a déjà été vue près de 10millions de fois."/>
-   <link><![CDATA[http://www.lapresse.ca/sciences/201807/13/01-5189376-une-vraie-fausse-nouvelle-partagee-au-nom-de-la-science.php]]></link>
-   <guid isPermaLink="false">article-5189376</guid>
-   <description><![CDATA[Théorie du complot, remède miracle contre le cancer et traitement uniquement vendu en ligne... L'Organisation pour la science et la société (OSS) de l'Université McGill a réuni tous les ingrédients pour propager une vraie fausse nouvelle. Et surprise... En deux semaines, la courte vidéo lancée sur les réseaux sociaux a déjà été vue des millions de fois.]]></description>
-   <pubDate>Fri, 13 Jul 2018 07:29:00 -0400</pubDate>
-   <dc:creator><![CDATA[Fanny Lévesque]]></dc:creator>
-   <dc:source><![CDATA[La Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[Sorel-Tracy: une usine de 87 millions pour les Mini Babybel]]></title>
-   <enclosure length="101699" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562412-actuellement-mini-babybel-importes-usines.jpg" title="Actuellement, les Mini Babybel sont importés d'usines de l'entreprise en France et aux ÉtatsUnis."/>
-   <link><![CDATA[http://www.lapresse.ca/affaires/entreprises/201807/13/01-5189370-sorel-tracy-une-usine-de-87-millions-pour-les-mini-babybel.php]]></link>
-   <guid isPermaLink="false">article-5189370</guid>
-   <description><![CDATA[Le groupe français Bel, connu pour ses petits fromages Mini Babybel, le Boursin et La Vache qui rit, investit 87 millions de dollars dans la construction d'une toute nouvelle usine à Sorel-Tracy. Il s'agira de ses premières installations en sol canadien.]]></description>
-   <pubDate>Fri, 13 Jul 2018 06:18:00 -0400</pubDate>
-   <dc:creator><![CDATA[Marie-Eve Fournier]]></dc:creator>
-   <dc:source><![CDATA[La Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[Donald Trump torpille le projet de Brexit de Theresa May]]></title>
-   <enclosure length="68476" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562417-apres-avoir-vertement-critique-allemagne.jpg" title="Après avoir vertement critiqué l'Allemagne lors d'un sommet de l'OTAN à Bruxelles, où il a également réclamé une augmentation de la contribution financière des Européens, Donald Trump s'en est pris au plan de Theresa May de futures relations commerciales avec l'Unioneuropéenne."/>
-   <link><![CDATA[http://www.lapresse.ca/international/europe/201807/13/01-5189372-donald-trump-torpille-le-projet-de-brexit-de-theresa-may.php]]></link>
-   <guid isPermaLink="false">article-5189372</guid>
-   <description><![CDATA[Le président américain Donald Trump a lancé une attaque virulente contre la stratégie de la première ministre britannique, Theresa May, sur le Brexit, une nouvelle entorse à la « relation spéciale » entre les États-Unis et le Royaume-Uni, où il est en visite officielle.]]></description>
-   <pubDate>Fri, 13 Jul 2018 06:24:00 -0400</pubDate>
-   <dc:creator><![CDATA[]]></dc:creator>
-   <dc:source><![CDATA[Agence France-Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[Le sort d'un espace boisé attise les tensions à Laval]]></title>
-   <enclosure length="106938" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562393-boise-trait-carre-terrain-12.jpg" title="Leboisé du TraitCarré, un terrain de 12hectares situé à Laval,est enclavé par les boulevards SaintMartin (au nord), de L'Avenir (à l'ouest), Du Souvenir (au sud) et Laval (à l'est)."/>
-   <link><![CDATA[http://www.lapresse.ca/actualites/grand-montreal/201807/12/01-5189362-le-sort-dun-espace-boise-attise-les-tensions-a-laval.php]]></link>
-   <guid isPermaLink="false">article-5189362</guid>
-   <description><![CDATA[Deux ans après avoir adopté une stratégie de développement de Laval misant sur l'harmonie entre urbanité et nature, l'administration du maire Marc Demers veut céder la moitié du dernier îlot vert du centre-ville au bras immobilier de la FTQ pour la construction de tours de condos.]]></description>
-   <pubDate>Fri, 13 Jul 2018 05:00:00 -0400</pubDate>
-   <dc:creator><![CDATA[Kathleen Lévesque]]></dc:creator>
-   <dc:source><![CDATA[La Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[CPE pour demandeurs d'asile: il n'y aura pas d'expulsions, assure Québec]]></title>
-   <enclosure length="44019" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562435-malgre-nouvelle-directive-ministerielle-excluant.jpg" title="Malgré une nouvelle directive ministérielle excluant les demandeurs d'asile des services de garde subventionnés, les enfants qui fréquentent déjà un centre de la petite enfance (CPE) ne seront pas mis à la porte, assure Québec."/>
-   <link><![CDATA[http://www.lapresse.ca/actualites/education/201807/13/01-5189383-cpe-pour-demandeurs-dasile-il-ny-aura-pas-dexpulsions-assure-quebec.php]]></link>
-   <guid isPermaLink="false">article-5189383</guid>
-   <description><![CDATA[Malgré une nouvelle directive ministérielle excluant les demandeurs d'asile des services de garde subventionnés, les enfants qui fréquentent déjà un centre de la petite enfance (CPE) ne seront pas mis à la porte, assure Québec.]]></description>
-   <pubDate>Fri, 13 Jul 2018 07:54:00 -0400</pubDate>
-   <dc:creator><![CDATA[Agnès Gruda]]></dc:creator>
-   <dc:source><![CDATA[La Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[Grotte en Thaïlande: un plongeur britannique raconte]]></title>
-   <enclosure length="53604" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562430-fallu-plongeurs-experimentes-remonter-parcours.jpg" title="Il a fallu à ces plongeurs expérimentés remonter un parcours dangereux de plusieurs kilomètres dans des boyaux étroits remplis d'eau, avec le risque de nouvelles pluies de mousson."/>
-   <link><![CDATA[http://www.lapresse.ca/international/asie-oceanie/201807/13/01-5189379-grotte-en-thailande-un-plongeur-britannique-raconte.php]]></link>
-   <guid isPermaLink="false">article-5189379</guid>
-   <description><![CDATA[Le plongeur britannique qui a retrouvé les douze enfants thaïlandais et leur entraîneur de soccer vivants dans une grotte inondée en Thaïlande a raconté son « énorme soulagement » lorsqu'il les a comptés un à un lors d'une opération de sauvetage sans précédent.]]></description>
-   <pubDate>Fri, 13 Jul 2018 07:34:00 -0400</pubDate>
-   <dc:creator><![CDATA[]]></dc:creator>
-   <dc:source><![CDATA[Agence France-Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[Automobile: l'UE ripostera si Trump passe à l'acte]]></title>
-   <enclosure length="124924" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562422-france-insiste-necessite-pour-union.jpg" title="La France insiste sur la nécessité pour l'Union européenne (UE) de rester unie face aux menaces protectionnistes de Donald Trump après que la chancelière allemande Angela Merkel s'est dite prête le 5 juillet à négocier une baisse généralisée des taxes sur l'automobile."/>
-   <link><![CDATA[http://www.lapresse.ca/affaires/economie/automobile/201807/13/01-5189375-automobile-lue-ripostera-si-trump-passe-a-lacte.php]]></link>
-   <guid isPermaLink="false">article-5189375</guid>
-   <description><![CDATA[Le ministre français des Affaires étrangères Jean-Yves Le Drian a martelé vendredi que l'Europe riposterait si les États-Unis relevaient leurs droits de douane sur les importations de voitures européennes.]]></description>
-   <pubDate>Fri, 13 Jul 2018 07:10:00 -0400</pubDate>
-   <dc:creator><![CDATA[]]></dc:creator>
-   <dc:source><![CDATA[Agence France-Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[OTAN: la catastrophe évitée, mais pas le chaos]]></title>
-   <enclosure length="41406" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562383-president-etats-unis-donald-trump.jpg" title="Le président des ÉtatsUnis, Donald Trump"/>
-   <link><![CDATA[http://www.lapresse.ca/international/201807/12/01-5189359-otan-la-catastrophe-evitee-mais-pas-le-chaos.php]]></link>
-   <guid isPermaLink="false">article-5189359</guid>
-   <description><![CDATA[La salve de tweets et le comportement agressif de Donald Trump ont laissé craindre le pire jusqu'à la toute dernière minute. Le sentiment d'angoisse était tel, au quartier général futuriste de l'OTAN, que les dirigeants des pays membres ont convoqué une réunion d'urgence hier matin, à quelques heures de la fin du sommet de Bruxelles.]]></description>
-   <pubDate>Fri, 13 Jul 2018 00:00:00 -0400</pubDate>
-   <dc:creator><![CDATA[Maxime Bergeron]]></dc:creator>
-   <dc:source><![CDATA[La Presse]]></dc:source>
-  </item>
-  <item>
-   <title><![CDATA[La Chine enregistre un excédent commercial record avec les États-Unis]]></title>
-   <enclosure length="101080" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562402-exportations-chinoises-etats-unis-gonfle.jpg" title="Les exportations chinoises vers les ÉtatsUnis ont gonflé de 13,6."/>
-   <link><![CDATA[http://www.lapresse.ca/affaires/economie/international/201807/12/01-5189366-la-chine-enregistre-un-excedent-commercial-record-avec-les-etats-unis.php]]></link>
-   <guid isPermaLink="false">article-5189366</guid>
-   <description><![CDATA[La Chine a enregistré le mois dernier un excédent record avec les États-Unis à près de 30 milliards de dollars, un chiffre de nature à attiser la colère de Donald Trump, qui vient d'engager une guerre commerciale avec le géant asiatique.]]></description>
-   <pubDate>Thu, 12 Jul 2018 23:56:00 -0400</pubDate>
-   <dc:creator><![CDATA[Patrick Baert]]></dc:creator>
-   <dc:source><![CDATA[Agence France-Presse]]></dc:source>
-  </item>
-  <item>
-		<title>Logiciels : acquisition de CA Technologies par Broadcom</title>
-		<link>https://www.directioninformatique.com/logiciels-acquisition-de-ca-technologies-par-broadcom/58716</link>
-		<comments>https://www.directioninformatique.com/logiciels-acquisition-de-ca-technologies-par-broadcom/58716#respond</comments>
-		<pubDate>Thu, 12 Jul 2018 17:24:55 +0000</pubDate>
-		<dc:creator><![CDATA[Dominique Lemoine]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
-		<category><![CDATA[acquisition]]></category>
-		<category><![CDATA[Broadcom]]></category>
-		<category><![CDATA[CA Technologies]]></category>
-		<category><![CDATA[industrie]]></category>
-		<category><![CDATA[infrastructure]]></category>
-		<category><![CDATA[logiciel]]></category>
-		<category><![CDATA[Semi-conducteurs]]></category>
-		<category><![CDATA[technologie]]></category>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+   <channel>
+      <language>FR-CA</language>
+      <title>LaPresse.ca - Accueil manchettes</title>
+      <description />
+      <link>http://www.lapresse.ca</link>
+      <lastBuildDate>Fri, 13 Jul 2018 08:53:54 -0400</lastBuildDate>
+      <image>
+         <url>http://static.lpcdn.ca/lpweb/lapresse/img/icon-logo-rss.gif</url>
+         <title>LaPresse.ca - Accueil manchettes</title>
+         <link>http://www.lapresse.ca</link>
+         <description>LaPresse.ca - Accueil manchettes</description>
+      </image>
+      <atom:link href="http://www.lapresse.ca" rel="self" type="application/rss+xml" />
+      <item>
+         <title><![CDATA[Inondations 2017: Québec attend jusqu'à 245 millions d'Ottawa]]></title>
+         <enclosure length="339172" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562386-johanne-belanger-conjoint-daniel-levac.jpg" title="JohanneBelanger et son conjoint DanielLevac on reussit a garder leur maison au sec grace a l'aide de voisins pour installer une digue de sac de sable." />
+         <link><![CDATA[http://www.lapresse.ca/actualites/national/201807/12/01-5189360-inondations-2017-quebec-attend-jusqua-245-millions-dottawa.php]]></link>
+         <guid isPermaLink="false">article-5189360</guid>
+         <description><![CDATA[Québec s'attend à recevoir jusqu'à 245 millions d'Ottawa à la suite des inondations du printemps 2017, a appris <em>La Presse</em>. En raison de l'ampleur des dommages, le gouvernement fédéral a accepté de couvrir une partie des 376,6 millions que la catastrophe pourrait coûter à la province.]]></description>
+         <pubDate>Fri, 13 Jul 2018 05:00:00 -0400</pubDate>
+         <dc:creator><![CDATA[Pierre-André Normandin]]></dc:creator>
+         <dc:source><![CDATA[La Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[SQDC: des agents de sécurité pour vérifier l'âge des clients]]></title>
+         <enclosure length="64078" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562392-differents-appels-offres-diffuses-saq.jpg" title="Différents appels d'offres diffusés par la SAQ indiquent qu'elle planifie ouvrir plus ou moins 48 succursales de sa filiale destinée à la vente de cannabis d'ici août 2019." />
+         <link><![CDATA[http://www.lapresse.ca/actualites/201807/12/01-5189361-sqdc-des-agents-de-securite-pour-verifier-lage-des-clients.php]]></link>
+         <guid isPermaLink="false">article-5189361</guid>
+         <description><![CDATA[Le dispositif de sécurité entourant les succursales de la Société québécoise du cannabis se précise. Ce sont des agents de sécurité travaillant pour une firme externe qui devront « carter tous les clients » pour s'assurer qu'ils sont majeurs, révèle un appel d'offres récemment publié par la SAQ.]]></description>
+         <pubDate>Fri, 13 Jul 2018 05:00:00 -0400</pubDate>
+         <dc:creator><![CDATA[Tristan Péloquin]]></dc:creator>
+         <dc:source><![CDATA[La Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[Une vraie fausse nouvelle partagée au nom de la science]]></title>
+         <enclosure length="58217" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562426-organisation-pour-science-societe-universite.jpg" title="L'Organisation pour la science et la société de l'Université McGill a réuni tous les ingrédients pour propager une vraie fausse nouvelle. En deux semaines, la courte vidéo lancée sur les réseaux sociaux a déjà été vue près de 10millions de fois." />
+         <link><![CDATA[http://www.lapresse.ca/sciences/201807/13/01-5189376-une-vraie-fausse-nouvelle-partagee-au-nom-de-la-science.php]]></link>
+         <guid isPermaLink="false">article-5189376</guid>
+         <description><![CDATA[Théorie du complot, remède miracle contre le cancer et traitement uniquement vendu en ligne... L'Organisation pour la science et la société (OSS) de l'Université McGill a réuni tous les ingrédients pour propager une vraie fausse nouvelle. Et surprise... En deux semaines, la courte vidéo lancée sur les réseaux sociaux a déjà été vue des millions de fois.]]></description>
+         <pubDate>Fri, 13 Jul 2018 07:29:00 -0400</pubDate>
+         <dc:creator><![CDATA[Fanny Lévesque]]></dc:creator>
+         <dc:source><![CDATA[La Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[Sorel-Tracy: une usine de 87 millions pour les Mini Babybel]]></title>
+         <enclosure length="101699" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562412-actuellement-mini-babybel-importes-usines.jpg" title="Actuellement, les Mini Babybel sont importés d'usines de l'entreprise en France et aux ÉtatsUnis." />
+         <link><![CDATA[http://www.lapresse.ca/affaires/entreprises/201807/13/01-5189370-sorel-tracy-une-usine-de-87-millions-pour-les-mini-babybel.php]]></link>
+         <guid isPermaLink="false">article-5189370</guid>
+         <description><![CDATA[Le groupe français Bel, connu pour ses petits fromages Mini Babybel, le Boursin et La Vache qui rit, investit 87 millions de dollars dans la construction d'une toute nouvelle usine à Sorel-Tracy. Il s'agira de ses premières installations en sol canadien.]]></description>
+         <pubDate>Fri, 13 Jul 2018 06:18:00 -0400</pubDate>
+         <dc:creator><![CDATA[Marie-Eve Fournier]]></dc:creator>
+         <dc:source><![CDATA[La Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[Donald Trump torpille le projet de Brexit de Theresa May]]></title>
+         <enclosure length="68476" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562417-apres-avoir-vertement-critique-allemagne.jpg" title="Après avoir vertement critiqué l'Allemagne lors d'un sommet de l'OTAN à Bruxelles, où il a également réclamé une augmentation de la contribution financière des Européens, Donald Trump s'en est pris au plan de Theresa May de futures relations commerciales avec l'Unioneuropéenne." />
+         <link><![CDATA[http://www.lapresse.ca/international/europe/201807/13/01-5189372-donald-trump-torpille-le-projet-de-brexit-de-theresa-may.php]]></link>
+         <guid isPermaLink="false">article-5189372</guid>
+         <description><![CDATA[Le président américain Donald Trump a lancé une attaque virulente contre la stratégie de la première ministre britannique, Theresa May, sur le Brexit, une nouvelle entorse à la « relation spéciale » entre les États-Unis et le Royaume-Uni, où il est en visite officielle.]]></description>
+         <pubDate>Fri, 13 Jul 2018 06:24:00 -0400</pubDate>
+         <dc:creator />
+         <dc:source><![CDATA[Agence France-Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[Le sort d'un espace boisé attise les tensions à Laval]]></title>
+         <enclosure length="106938" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562393-boise-trait-carre-terrain-12.jpg" title="Leboisé du TraitCarré, un terrain de 12hectares situé à Laval,est enclavé par les boulevards SaintMartin (au nord), de L'Avenir (à l'ouest), Du Souvenir (au sud) et Laval (à l'est)." />
+         <link><![CDATA[http://www.lapresse.ca/actualites/grand-montreal/201807/12/01-5189362-le-sort-dun-espace-boise-attise-les-tensions-a-laval.php]]></link>
+         <guid isPermaLink="false">article-5189362</guid>
+         <description><![CDATA[Deux ans après avoir adopté une stratégie de développement de Laval misant sur l'harmonie entre urbanité et nature, l'administration du maire Marc Demers veut céder la moitié du dernier îlot vert du centre-ville au bras immobilier de la FTQ pour la construction de tours de condos.]]></description>
+         <pubDate>Fri, 13 Jul 2018 05:00:00 -0400</pubDate>
+         <dc:creator><![CDATA[Kathleen Lévesque]]></dc:creator>
+         <dc:source><![CDATA[La Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[CPE pour demandeurs d'asile: il n'y aura pas d'expulsions, assure Québec]]></title>
+         <enclosure length="44019" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562435-malgre-nouvelle-directive-ministerielle-excluant.jpg" title="Malgré une nouvelle directive ministérielle excluant les demandeurs d'asile des services de garde subventionnés, les enfants qui fréquentent déjà un centre de la petite enfance (CPE) ne seront pas mis à la porte, assure Québec." />
+         <link><![CDATA[http://www.lapresse.ca/actualites/education/201807/13/01-5189383-cpe-pour-demandeurs-dasile-il-ny-aura-pas-dexpulsions-assure-quebec.php]]></link>
+         <guid isPermaLink="false">article-5189383</guid>
+         <description><![CDATA[Malgré une nouvelle directive ministérielle excluant les demandeurs d'asile des services de garde subventionnés, les enfants qui fréquentent déjà un centre de la petite enfance (CPE) ne seront pas mis à la porte, assure Québec.]]></description>
+         <pubDate>Fri, 13 Jul 2018 07:54:00 -0400</pubDate>
+         <dc:creator><![CDATA[Agnès Gruda]]></dc:creator>
+         <dc:source><![CDATA[La Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[Grotte en Thaïlande: un plongeur britannique raconte]]></title>
+         <enclosure length="53604" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562430-fallu-plongeurs-experimentes-remonter-parcours.jpg" title="Il a fallu à ces plongeurs expérimentés remonter un parcours dangereux de plusieurs kilomètres dans des boyaux étroits remplis d'eau, avec le risque de nouvelles pluies de mousson." />
+         <link><![CDATA[http://www.lapresse.ca/international/asie-oceanie/201807/13/01-5189379-grotte-en-thailande-un-plongeur-britannique-raconte.php]]></link>
+         <guid isPermaLink="false">article-5189379</guid>
+         <description><![CDATA[Le plongeur britannique qui a retrouvé les douze enfants thaïlandais et leur entraîneur de soccer vivants dans une grotte inondée en Thaïlande a raconté son « énorme soulagement » lorsqu'il les a comptés un à un lors d'une opération de sauvetage sans précédent.]]></description>
+         <pubDate>Fri, 13 Jul 2018 07:34:00 -0400</pubDate>
+         <dc:creator />
+         <dc:source><![CDATA[Agence France-Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[Automobile: l'UE ripostera si Trump passe à l'acte]]></title>
+         <enclosure length="124924" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/13/1562422-france-insiste-necessite-pour-union.jpg" title="La France insiste sur la nécessité pour l'Union européenne (UE) de rester unie face aux menaces protectionnistes de Donald Trump après que la chancelière allemande Angela Merkel s'est dite prête le 5 juillet à négocier une baisse généralisée des taxes sur l'automobile." />
+         <link><![CDATA[http://www.lapresse.ca/affaires/economie/automobile/201807/13/01-5189375-automobile-lue-ripostera-si-trump-passe-a-lacte.php]]></link>
+         <guid isPermaLink="false">article-5189375</guid>
+         <description><![CDATA[Le ministre français des Affaires étrangères Jean-Yves Le Drian a martelé vendredi que l'Europe riposterait si les États-Unis relevaient leurs droits de douane sur les importations de voitures européennes.]]></description>
+         <pubDate>Fri, 13 Jul 2018 07:10:00 -0400</pubDate>
+         <dc:creator />
+         <dc:source><![CDATA[Agence France-Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[OTAN: la catastrophe évitée, mais pas le chaos]]></title>
+         <enclosure length="41406" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562383-president-etats-unis-donald-trump.jpg" title="Le président des ÉtatsUnis, Donald Trump" />
+         <link><![CDATA[http://www.lapresse.ca/international/201807/12/01-5189359-otan-la-catastrophe-evitee-mais-pas-le-chaos.php]]></link>
+         <guid isPermaLink="false">article-5189359</guid>
+         <description><![CDATA[La salve de tweets et le comportement agressif de Donald Trump ont laissé craindre le pire jusqu'à la toute dernière minute. Le sentiment d'angoisse était tel, au quartier général futuriste de l'OTAN, que les dirigeants des pays membres ont convoqué une réunion d'urgence hier matin, à quelques heures de la fin du sommet de Bruxelles.]]></description>
+         <pubDate>Fri, 13 Jul 2018 00:00:00 -0400</pubDate>
+         <dc:creator><![CDATA[Maxime Bergeron]]></dc:creator>
+         <dc:source><![CDATA[La Presse]]></dc:source>
+      </item>
+      <item>
+         <title><![CDATA[La Chine enregistre un excédent commercial record avec les États-Unis]]></title>
+         <enclosure length="101080" type="image/jpeg" url="http://images.lpcdn.ca/641x427/201807/12/1562402-exportations-chinoises-etats-unis-gonfle.jpg" title="Les exportations chinoises vers les ÉtatsUnis ont gonflé de 13,6." />
+         <link><![CDATA[http://www.lapresse.ca/affaires/economie/international/201807/12/01-5189366-la-chine-enregistre-un-excedent-commercial-record-avec-les-etats-unis.php]]></link>
+         <guid isPermaLink="false">article-5189366</guid>
+         <description><![CDATA[La Chine a enregistré le mois dernier un excédent record avec les États-Unis à près de 30 milliards de dollars, un chiffre de nature à attiser la colère de Donald Trump, qui vient d'engager une guerre commerciale avec le géant asiatique.]]></description>
+         <pubDate>Thu, 12 Jul 2018 23:56:00 -0400</pubDate>
+         <dc:creator><![CDATA[Patrick Baert]]></dc:creator>
+         <dc:source><![CDATA[Agence France-Presse]]></dc:source>
+      </item>
+      <item>
+         <title>Discover your interests while using O*NET OnLine</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018061200</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018061200</guid>
+         <description>&lt;p&gt;
+Easy access to the &lt;a href="https://www.onetcenter.org/IP.html"&gt;O*NET Interest Profiler&lt;/a&gt;, popular within &lt;a href="https://www.mynextmove.org/explore/ip"&gt;My Next Move&lt;/a&gt;, is now included within &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;!
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58716</guid>
-		<description><![CDATA[Le fabricant de semi-conducteurs Broadcom acquiert l'entreprise de logiciels CA Technologies en échange de 18,9 milliards de dollars américains.]]></description>
-				<content:encoded><![CDATA[<p>Le fabricant de semi-conducteurs Broadcom acquiert l&rsquo;entreprise de logiciels CA Technologies en échange de 18,9 milliards de dollars américains.<img class="alignright wp-image-58720 size-full" src="https://www.directioninformatique.com/wp-content/uploads/2018/07/acquisitions2.jpg" alt="acquisition" width="200" height="200" /></p>
-<p><em>IT World Canada</em> rapporte que Broadcom considère son achat de CA Technologies comme étant une autre étape vers sa création de l&rsquo;une des plus imposantes entreprises au monde en technologies d&rsquo;infrastructures. </p>
-<p>L&rsquo;acquisition a été approuvée par le conseil d&rsquo;administration de chacune des entreprises. Broadcom est basée à San Jose en Californie et CA Technologies est basée à New York.</p>
-<p>Broadcom miserait notamment sur la clientèle déjà acquise de CA Technologies, sur la prédictibilité de ses revenus, sur ses logiciels, ainsi que sur sa position sur le marché du logiciel d&rsquo;infrastructure. </p>
-<p>CA Technologies verrait son intégration par Broadcom comme étant une opportunité d&rsquo;alignement de leurs expertises industrielles respectives.</p>
-<p>Des doutes d&rsquo;analystes et d&rsquo;investisseurs sur la logique de cette acquisition pour Broadcom ont contribué à faire passer le prix de son action de 244,5 à 230 dollars par action durant la journée qui a suivi l&rsquo;annonce de l&rsquo;acquisition. </p>
-<p>« Ces entreprises ne partagent ni de chaînes d&rsquo;approvisionnement ni de clients. Le seul bénéfice réel pour Broadcom est que l&rsquo;accord est tellement en dehors de son créneau que les autorités réglementaires ne risquent pas de s&rsquo;y opposer », soutient le média d&rsquo;informations financières <em>Bloomberg</em> dans un éditorial, qui fait référence à la tentative d&rsquo;acquisition par Broadcom de son concurrent Qualcomm, bloquée par le gouvernement des États-Unis en mars.</p>
-<p><a href="https://www.itworldcanada.com/article/broadcom-to-buy-ca-technologies-for-19-billion-usd/407053"><em>Lire l&rsquo;article d&rsquo;origine sur le site d&rsquo;IT World Canada, une publication sœur de Direction informatique (en anglais)</em></a></p>
-<p><strong>Lire aussi :</strong></p>
-<p><a href="https://www.directioninformatique.com/industrie-du-logiciel-logient-acquiert-nuum/58518">Industrie du logiciel : Logient acquiert Nuum</a></p>
-<p><a href="https://www.directioninformatique.com/trump-dit-non-lacquisition-de-qualcomm-par-broadcom/55369">Trump dit non à l’acquisition de Qualcomm par Broadcom</a></p>
-<p><a href="https://www.directioninformatique.com/logiciels-spiria-acquiert-une-entreprise-de-boston/50917">Logiciels : Spiria acquiert une entreprise de Boston</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/logiciels-acquisition-de-ca-technologies-par-broadcom/58716/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Fusion entre Cortex et Agyl</title>
-		<link>https://www.directioninformatique.com/fusion-entre-cortex-et-agyl/58689</link>
-		<comments>https://www.directioninformatique.com/fusion-entre-cortex-et-agyl/58689#respond</comments>
-		<pubDate>Thu, 12 Jul 2018 16:56:20 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
-		<category><![CDATA[agyl]]></category>
-		<category><![CDATA[applications mobiles]]></category>
-		<category><![CDATA[applications Web]]></category>
-		<category><![CDATA[cortex]]></category>
-		<category><![CDATA[Lune Rouge Innovation]]></category>
-		<category><![CDATA[réalité augmentée]]></category>
-		<category><![CDATA[réalité virtuelle]]></category>
-		<category><![CDATA[reconnaissance vocale]]></category>
+&lt;p&gt;
+Discover your interests: &lt;a href="https://www.onetonline.org/find/descriptor/browse/Interests/"&gt;Browse by O*NET Data - Interests&lt;/a&gt; within the Advanced Search. Or, within each of OnLine’s occupation summary reports, see the “Interests” section to access the O*NET Interest Profiler.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 12 Jun 2018 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>Updated military occupations included in O*NET websites</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018052901</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018052901</guid>
+         <description>&lt;p&gt;
+The Military Occupational Classification (MOC) crosswalk has been updated by the Department of Defense (April 2018) and incorporated into &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt; and &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;. By supplementing this crosswalk with additional sources of data, both sites offer over 36,500 linkages between nearly 13,000 distinct MOC occupations and related O*NET-SOC occupations. Within the &lt;a href="https://www.mynextmove.org/vets/find/military?b=&amp;s="&gt;O*NET Military Transition Search&lt;/a&gt;, civilian career options are presented alongside helpful military links and information. To learn more, visit &lt;a href="https://www.onetcenter.org/crosswalks.html"&gt;O*NET Resource Center Crosswalks&lt;/a&gt;.
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58689</guid>
-		<description><![CDATA[Cortex et Agyl, deux entreprises en TI de Québec, fusionnent afin de devenir un joueur plus important dans le domaine du développement d’applications web et mobiles. C’est sous le nom de Cortex que la nouvelle entité existera. Ses bureaux seront &#8230;]]></description>
-				<content:encoded><![CDATA[<p>Cortex et Agyl, deux entreprises en TI de Québec, fusionnent afin de devenir un joueur plus important dans le domaine du développement d’applications web et mobiles.<img class="alignright wp-image-58690" src="https://www.directioninformatique.com/wp-content/uploads/2018/07/1.jpeg" alt="" width="200" height="125" /></p>
-<p>C’est sous le nom de Cortex que la nouvelle entité existera. Ses bureaux seront situés à Québec.</p>
-<p>La nouvelle équipe compte 70 employés et va s’agrandir car Cortex souhaite recruter 15 personnes supplémentaires.</p>
-<p>Fondée en 2009, Cortex se spécialise dans le développement d’applications mobiles et de technologies comme la réalité augmentée, la réalité virtuelle et la reconnaissance vocale.</p>
-<p>Quant à Agyl, ce partenaire de l’investisseur et incubateur Lune Rouge Innovation crée des applications web et mobiles depuis 2012. Par exemple, elle a conçu l’application mobile officielle du 375e anniversaire de Montréal et des applications de paiement des bornes de recharges électriques. Il y a un peu plus d’un an, l’entreprise a ouvert un deuxième bureau à Montréal.</p>
-<p>Dans un communiqué, Cortex et Agyl ont expliqué leur rapprochement notamment par une volonté identique de croître.</p>
-<p>Jean-Michel Lebeau, le fondateur de Cortex, reste président de la nouvelle entité et Alexandre Bérubé, le propriétaire d&rsquo;Agyl, devient vice-président aux affaires corporatives de Cortex.</p>
-<p><strong>Lire aussi :</strong></p>
-<p><a href="https://www.directioninformatique.com/shopify-mise-sur-son-assistant-virtuel-et-sur-la-realite-augmentee/56868">Shopify mise sur son assistant virtuel et sur la réalité augmentée</a></p>
-<p><a href="https://www.directioninformatique.com/simulateur-integrant-la-realite-augmentee-pour-cae-sante/53835">Simulateur intégrant la réalité augmentée pour CAE Santé</a></p>
-<p><a href="https://www.directioninformatique.com/lunette-de-realite-augmentee-a-fabriquer-soi-meme/46869">Lunette de réalité augmentée à fabriquer soi-même</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/fusion-entre-cortex-et-agyl/58689/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>BDC Capital investit dans deux plateformes cofondées par des femmes</title>
-		<link>https://www.directioninformatique.com/bdc-investit-dans-2-plateformes-cofondees-par-des-femmes/58699</link>
-		<comments>https://www.directioninformatique.com/bdc-investit-dans-2-plateformes-cofondees-par-des-femmes/58699#respond</comments>
-		<pubDate>Thu, 12 Jul 2018 16:55:42 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
-		<category><![CDATA[BDC Capital]]></category>
-		<category><![CDATA[femmes]]></category>
-		<category><![CDATA[Fermes Lufa]]></category>
-		<category><![CDATA[fonds]]></category>
-		<category><![CDATA[investissement]]></category>
-		<category><![CDATA[plateforme]]></category>
-		<category><![CDATA[technologies]]></category>
-		<category><![CDATA[Unsplash]]></category>
+&lt;p&gt;
+The updated search can also be accessed via &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 29 May 2018 11:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>O*NET Database and websites updated</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018050801</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018050801</guid>
+         <description>&lt;p&gt;
+The 22.3 release of the O*NET database includes the following:
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58699</guid>
-		<description><![CDATA[Le Fonds pour les femmes en technologie de BDC Capital, doté de 200 millions de dollars, vient de choisir d&#8217;investir dans deux jeunes pousses montréalaises. Les Fermes Lufa va obtenir du financement dont le montant n&#8217;a pas été dévoilé. Cette &#8230;]]></description>
-				<content:encoded><![CDATA[<p>Le Fonds pour les femmes en technologie de BDC Capital, doté de 200 millions de dollars, vient de choisir d&rsquo;investir dans deux jeunes pousses montréalaises.<img class="alignright wp-image-40437 size-full" src="https://www.directioninformatique.com/wp-content/uploads/2016/02/BDC.jpg" alt="BDC Capital" width="200" height="200" /></p>
-<p>Les Fermes Lufa va obtenir du financement dont le montant n&rsquo;a pas été dévoilé. Cette entreprise cofondée par Lauren Rathmell produit des fruits et des légumes dans des serres disposées sur des toits montréalais. Mais c&rsquo;est également une plateforme de commerce électronique qui assure la livraison directe de ses récoltes mais aussi d&rsquo;autres produits locaux.</p>
-<p>L&rsquo;autre jeune pousse sélectionnée est Unsplash, cofondée par Stéphanie Liverani. Unsplash est une plateforme offrant gratuitement des photographies dites de qualité. Selon la BDC, plus de 50 millions de créateurs téléchargeraient plus de 239 millions de photos par an sur Unsplash.</p>
-<p>« Le but du Fonds pour les femmes en technologie de BDC Capital est simple : investir dans de grandes entrepreneures et des équipes dirigées par des femmes, qui créent des entreprises concurrentielles à l’échelle mondiale et qui offrent des rendements », a indiqué, par communiqué, Michelle Scarborough, directrice générale, Investissements stratégiques et Fonds pour les femmes en technologie à BDC Capital.</p>
-<p><strong>Lire aussi :</strong></p>
-<p><a href="https://www.directioninformatique.com/un-fonds-pour-les-femmes-creatrices-dentreprises-en-technologies/58193">Un fonds pour les femmes créatrices d’entreprises en technologies</a></p>
-<p><a href="https://www.directioninformatique.com/la-sous-representation-des-femmes-nuit-aux-ti/52258">La sous-représentation des femmes nuit aux TI</a></p>
-<p><a href="https://www.directioninformatique.com/encore-juste-2-femmes-sur-10-professionnels-en-tic/54308">Juste 2 femmes sur 10 professionnels en TIC</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/bdc-investit-dans-2-plateformes-cofondees-par-des-femmes/58699/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Cinco signe un partenariat au Japon</title>
-		<link>https://www.directioninformatique.com/cinco-signe-un-partenariat-au-japon/58693</link>
-		<comments>https://www.directioninformatique.com/cinco-signe-un-partenariat-au-japon/58693#respond</comments>
-		<pubDate>Wed, 11 Jul 2018 15:02:11 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
+&lt;ul&gt;
+&lt;li style="margin-top: 0.5em; margin-bottom: 0.5em"&gt;460 technology skills related to 125 occupations were updated from employer job postings and other sources. Currently, 186 "hot technologies" are identified.&lt;/li&gt;
+&lt;/ul&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58693</guid>
-		<description><![CDATA[L’agence de marketing montréalaise Cinco devient partenaire de Dentsu Live, une entreprise de marketing direct japonaise. Dentsu Live va notamment bénéficier des services du CincoLab, qui est l’unité d’innovation et de recherche et développement mise en place par Cinco en &#8230;]]></description>
-				<content:encoded><![CDATA[<p>L’agence de marketing montréalaise Cinco devient partenaire de Dentsu Live, une entreprise de marketing direct japonaise.<img class="alignright wp-image-58697 size-full" src="https://www.directioninformatique.com/wp-content/uploads/2018/07/yyeXBQtq_400x400-e1531328971894.jpg" alt="" width="200" height="200" /></p>
-<p>Dentsu Live va notamment bénéficier des services du CincoLab, qui est l’unité d’innovation et de recherche et développement mise en place par Cinco en 2008. L’entreprise montréalaise a également lancé une plateforme d&rsquo;expériences technologiques.</p>
-<p>Ensemble, les deux agences visent à cocréer des campagnes intégrant des technologies comme l&rsquo;intelligence artificielle (AI), la réalité augmentée (AR), mixte (MR) et virtuelle (VR), les objets connectés (IoT) et les bots.</p>
-<p>En mars 2017, Nicolas Marullo, le président et fondateur de Cinco, avait indiqué au site Grenier qu’il ambitionnait d’ouvrir un bureau à Shanghai afin d’être présent en Asie.</p>
-<p>Signe que le marketing est de plus en plus friand de technologies, et notamment d’intelligence artificielle, le fournisseur de technologies d’intelligence artificielle Stradigi AI et l’agence de communication Cossette ont conclu une entente de coentreprise en mai dernier. Une association qui a pour but de développer des technologies en marketing relationnel.</p>
-<p>La même semaine, c&rsquo;est le groupe Havas, qui se spécialise en communication, publicité et marketing, qui annonçait la création à Montréal d&rsquo;un centre de recherche en intelligence artificielle appliquée à la valorisation de marques.</p>
-<p><strong>Lire aussi : </strong></p>
-<p><a href="https://www.directioninformatique.com/stradigi-ai-et-cossette-lancent-une-coentreprise/57248">Stradigi AI et Cossette lancent une coentreprise</a></p>
-<p><a href="https://www.directioninformatique.com/predictibilite-centre-de-recherche-havas-a-montreal/57331">Prédictibilité : centre de recherche Havas à Montréal</a></p>
-<p><a href="https://www.directioninformatique.com/lancement-de-bases-ai-pour-developper-lia-en-region/58673">Création de Bases.ai pour développer l’IA en région</a></p>
-<p>&nbsp;</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/cinco-signe-un-partenariat-au-japon/58693/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Contrats publics en TI : arrestations pour corruption</title>
-		<link>https://www.directioninformatique.com/contrats-publics-en-ti-arrestations-pour-corruption/58683</link>
-		<comments>https://www.directioninformatique.com/contrats-publics-en-ti-arrestations-pour-corruption/58683#respond</comments>
-		<pubDate>Tue, 10 Jul 2018 18:59:50 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
-		<category><![CDATA[abus de confiance]]></category>
-		<category><![CDATA[contrat]]></category>
-		<category><![CDATA[corruption]]></category>
-		<category><![CDATA[fraude]]></category>
-		<category><![CDATA[informatique]]></category>
-		<category><![CDATA[ministère de la Justice du Québec]]></category>
-		<category><![CDATA[public]]></category>
-		<category><![CDATA[TI]]></category>
-		<category><![CDATA[UPAC]]></category>
+&lt;ul&gt;
+&lt;li style="margin-top: 0.5em; margin-bottom: 0.5em"&gt;273 alternate titles related to 120 occupations were added from employer job postings and other sources.&lt;/li&gt;
+&lt;/ul&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58683</guid>
-		<description><![CDATA[La semaine dernière, les enquêteurs de l&#8217;Unité permanente anticorruption (UPAC) ont arrêté Christian Tessier, l’ancien directeur des Services à la clientèle et technologiques au ministère de la Justice du Québec, ainsi que Sylvain Tremblay, administrateur d&#8217;une firme de services informatiques. &#8230;]]></description>
-				<content:encoded><![CDATA[<p>La semaine dernière, les enquêteurs de l&rsquo;Unité permanente anticorruption (UPAC) ont arrêté Christian Tessier, l’ancien directeur des Services à la clientèle et technologiques au ministère de la Justice du Québec, ainsi que Sylvain Tremblay, administrateur d&rsquo;une firme de services informatiques.<img class="alignright wp-image-34360 size-full" src="https://www.directioninformatique.com/wp-content/uploads/2015/03/UPAC.jpg" alt="UPAC contrat public informatique" width="200" height="200" /></p>
-<p>Une troisième personne a comparu au palais de justice de Montréal. Il s’agit de Normand Laberge, ancien directeur des Services à la clientèle et technologiques au MJQ.</p>
-<p>Ces trois professionnels des TI sont accusés de fraude, de fraude envers le gouvernement et d&rsquo;abus de confiance.</p>
-<p>Selon les enquêteurs, des fonctionnaires ont reçu des sommes d&rsquo;argent afin de favoriser une entreprise lors d&rsquo;octroi de contrats informatiques au MJQ entre 2000 et 2014.</p>
-<p>L’UPAC a eu vent de ces pratiques illégales grâce à un ou à plusieurs citoyens qui les ont dénoncées.</p>
-<p>Ces dernières années, d’autres affaires de corruption concernant les contrats publics en TI ont été mises au jour. En 2015, l’UPAC avait révélé l’existence d’un stratagème destiné à favoriser un consortium soumissionnaire, formé des entreprises IBM et Informatique EBR, dans l’octroi d’un contrat public en informatique.</p>
-<p>Il y a deux ans, l’organisme Crypto.Québec avait lancé une pétition réclamant la mise en place d’une commission d’enquête publique sur l’octroi des contrats informatiques par l’État du Québec.</p>
-<p><strong>Lire aussi : </strong></p>
-<p><a href="https://www.directioninformatique.com/contrat-public-en-informatique-lupac-vise-un-consortium-ibm-ebr/34353">Contrat public en informatique : l’UPAC vise un consortium IBM-EBR</a></p>
-<p><a href="https://www.directioninformatique.com/commission-detude-publique-sur-linformatique-reclamee/38631">Commission d’étude indépendante et publique sur l’informatique réclamée</a></p>
-<p><a href="https://www.directioninformatique.com/commission-detude-publique-sur-linformatique-reclamee/38631">Contrats informatiques : pétition pour une enquête publique</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/contrats-publics-en-ti-arrestations-pour-corruption/58683/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Partenariat entre Stradigi AI et un accélérateur allemand</title>
-		<link>https://www.directioninformatique.com/partenariat-entre-stradigi-ai-et-un-accelerateur-allemand/58679</link>
-		<comments>https://www.directioninformatique.com/partenariat-entre-stradigi-ai-et-un-accelerateur-allemand/58679#respond</comments>
-		<pubDate>Tue, 10 Jul 2018 18:01:43 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
-		<category><![CDATA[accélérateur]]></category>
-		<category><![CDATA[applications]]></category>
-		<category><![CDATA[apprentissage profond]]></category>
-		<category><![CDATA[apprentissage-machine]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[IeAD]]></category>
-		<category><![CDATA[Intelligence artificielle]]></category>
-		<category><![CDATA[laboratoire]]></category>
-		<category><![CDATA[langage naturel]]></category>
-		<category><![CDATA[réseaux de neurones profonds]]></category>
-		<category><![CDATA[Stradigi AI]]></category>
+&lt;p&gt;
+The new data is incorporated within &lt;a href="https://www.mynextmove.org/"&gt;My Next Move&lt;/a&gt;, &lt;a href="https://www.miproximopaso.org/"&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;.
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58679</guid>
-		<description><![CDATA[Le fournisseur de technologies d’intelligence artificielle Stradigi AI a signé un partenariat avec IeAD, un accélérateur berlinois de jeunes pousses spécialisées dans le secteur du sport et créé par les petits-fils de la marque Adidas. Stradigi AI, qui compte une &#8230;]]></description>
-				<content:encoded><![CDATA[<p>Le fournisseur de technologies d’intelligence artificielle Stradigi AI a signé un partenariat avec IeAD, un accélérateur berlinois de jeunes pousses spécialisées dans le secteur du sport et créé par les petits-fils de la marque Adidas.<img class="alignright wp-image-58687 size-medium" src="https://www.directioninformatique.com/wp-content/uploads/2018/07/stradigi-logo-320x320.png" alt="" width="200" height="200" /></p>
-<p>Stradigi AI, qui compte une vingtaine de chercheurs en IA appliquée dans son équipe, va apporter ses connaissances en intelligence artificielle (IA) aux jeunes pousses sélectionnées pour intégrer IeAD afin de les aider à développer des applications intégrant l’IA. Cette association permet à l’entreprise montréalaise de s’étendre à l’international alors qu’elle prévoit d’ouvrir prochainement un bureau au Brésil ainsi qu’à Toronto.</p>
-<p>A l’automne dernier, Stradigi AI a ouvert un laboratoire en intelligence artificielle, dirigé par Carolina Bessega. Cette astrophysicienne se spécialise notamment en apprentissage machine et en traitement du langage naturel.</p>
-<p>En mai, Stradigi est devenu partenaire de l’Institut Vecteur. Cet organisme de recherche torontois travaille sur des applications de l’intelligence artificielle, de l’apprentissage profond, de l’apprentissage des machines et des « réseaux de neurones profonds ».</p>
-<p>À la fin du mois de mai, l’entreprise a créé une coentreprise avec l’agence de communication Cossette afin de tirer parti de la spécialisation en marketing de Cossette pour développer des technologies en marketing relationnel.</p>
-<p><strong>Lire aussi :</strong></p>
-<p><a href="https://www.directioninformatique.com/stradigi-ai-et-cossette-lancent-une-coentreprise/57248">Stradigi AI et Cossette lancent une coentreprise</a></p>
-<p><a href="https://www.directioninformatique.com/ia-partenariat-entre-stradigi-et-linstitut-vecteur/56834">IA : partenariat entre Stradigi AI et l’Institut Vecteur</a></p>
-<p><a href="https://www.directioninformatique.com/laboratoire-dia-pour-stradigi/51392">Laboratoire d’IA pour Stradigi</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/partenariat-entre-stradigi-ai-et-un-accelerateur-allemand/58679/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Création de Bases.ai pour développer l’IA en région</title>
-		<link>https://www.directioninformatique.com/lancement-de-bases-ai-pour-developper-lia-en-region/58673</link>
-		<comments>https://www.directioninformatique.com/lancement-de-bases-ai-pour-developper-lia-en-region/58673#respond</comments>
-		<pubDate>Tue, 10 Jul 2018 17:12:17 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
-		<category><![CDATA[application]]></category>
-		<category><![CDATA[données]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Intelligence artificielle]]></category>
-		<category><![CDATA[région]]></category>
-		<category><![CDATA[robots]]></category>
-		<category><![CDATA[super calculateurs]]></category>
+&lt;p&gt;
+Learn more or download the database from our &lt;a href="https://www.onetcenter.org/database.html"&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 8 May 2018 11:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>2018 SOC Crosswalk in O*NET OnLine</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018050100</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018050100</guid>
+         <description>&lt;p&gt;
+To assist early adopters of the recently released 2018 Standard Occupational Classification (SOC), a crosswalk application from the new classification to the current O*NET-SOC 2010 Taxonomy is incorporated within O*NET OnLine. Customers can go to the &lt;a href="https://www.onetonline.org/crosswalk/SOC"&gt;Crosswalk Search&lt;/a&gt; page and use a title or code from the 2018 SOC to find corresponding occupations within O*NET OnLine. To download the new crosswalk or to learn more about the transition to the 2018 SOC, visit the &lt;a href="https://www.onetcenter.org/taxonomy.html"&gt;O*NET Taxonomy&lt;/a&gt; section of the O*NET Resource Center.
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58673</guid>
-		<description><![CDATA[Une nouvelle entreprise voulant développer l’intelligence artificielle (IA) en région vient de voir le jour à Lévis. Bases.ai veut offrir un espace d’expérimentation aux entreprises et institutions des régions de la Capitale-Nationale et de Chaudière-Appalaches afin qu’elles puissent développer et &#8230;]]></description>
-				<content:encoded><![CDATA[<p>Une nouvelle entreprise voulant développer l’intelligence artificielle (IA) en région vient de voir le jour à Lévis. Bases.ai veut offrir un espace d’expérimentation aux entreprises et institutions des régions de la Capitale-Nationale et de Chaudière-Appalaches afin qu’elles puissent développer et tester des applications de l’IA dans leur industrie. <img class="alignright wp-image-58675 size-medium" src="https://www.directioninformatique.com/wp-content/uploads/2018/07/x_i1phH7_400x400-320x320.jpg" alt="" width="200" height="200" srcset="https://www.directioninformatique.com/wp-content/uploads/2018/07/x_i1phH7_400x400-320x320.jpg 320w, https://www.directioninformatique.com/wp-content/uploads/2018/07/x_i1phH7_400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /></p>
-<p>Elle se voit comme le chaînon manquant entre la théorie et la pratique, mais aussi comme une bâtisseuse de ponts entre les différents partenaires afin que les entreprises comme les chercheurs bénéficient de leurs diverses collaborations.</p>
-<p>Concrètement, Bases.ai met à disposition des infrastructures telles que des espaces de travail, des salles de tests, des robots industriels, des super calculateurs ainsi que des experts.</p>
-<p>Elle compte également appuyer les entreprises dans l’accomplissement de leurs démarches afin de bénéficier des programmes de subventions gouvernementales.</p>
-<p>Pour le moment, Bases.ai vise surtout les entreprises évoluant dans les secteurs de l&rsquo;usinage, de l&rsquo;entreposage, de l&rsquo;agriculture et de l&rsquo;énergie. Et elle a choisi Lévis pour y installer la première série de ses bases québécoises.</p>
-<p>« Si certains perçoivent l&rsquo;intelligence artificielle comme une menace, nous préférons y voir un monde d&rsquo;opportunités. En identifiant, en recueillant, puis en valorisant les données qui sont produites par les grandes, mais aussi les petites et moyennes entreprises, il devient possible de les propulser parmi les meilleures au monde », a indiqué, par communiqué, Martin Bouchard, l’un des cofondateurs de Bases.ai.</p>
-<p><strong>Lire aussi :</strong></p>
-<p><a href="https://www.directioninformatique.com/cinq-orientations-en-intelligence-artificielle-retenues-par-quebec/58248">Cinq orientations en intelligence artificielle retenues par Québec</a></p>
-<p><a href="https://www.directioninformatique.com/groupe-detude-france-canada-sur-lintelligence-artificielle-dans-les-cartons/57819">Groupe d’étude France-Canada sur l’intelligence artificielle dans les cartons</a></p>
-<p><a href="https://www.directioninformatique.com/lia-au-service-de-la-sante-numerique/58656">L’IA au service de la santé numérique</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/lancement-de-bases-ai-pour-developper-lia-en-region/58673/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Les millénariaux moins soucieux de la sécurité des données</title>
-		<link>https://www.directioninformatique.com/les-millenariaux-moins-soucieux-de-la-securite-donnees/58664</link>
-		<comments>https://www.directioninformatique.com/les-millenariaux-moins-soucieux-de-la-securite-donnees/58664#respond</comments>
-		<pubDate>Mon, 09 Jul 2018 18:58:31 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Analyse]]></category>
-		<category><![CDATA[Nouvelles]]></category>
+&lt;p&gt;
+Developers can access the crosswalk via &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 1 May 2018 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>New BLS wage information in O*NET websites</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018041700</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018041700</guid>
+         <description>&lt;p&gt;
+The &lt;a href="https://www.bls.gov/oes/" title="https://www.bls.gov/oes/"&gt;Bureau of Labor Statistics (BLS)&lt;/a&gt;
+&lt;a href="https://www.onetcenter.org/exit?u=https%3A//www.bls.gov/oes/&amp;t=Bureau%20of%20Labor%20Statistics%20%28BLS%29" title="external site"&gt;&lt;img src="https://www.onetcenter.org/shared/image/external.svg" style="width: 12px; height: 12px" alt="external site"&gt;&lt;/a&gt; has released wage estimates for 2017. The latest wages are now included in career reports within &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;, &lt;a href="https://www.mynextmove.org/"&gt;My Next Move&lt;/a&gt;, &lt;a href="https://www.miproximopaso.org/"&gt;Mi Próximo Paso&lt;/a&gt;, and &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;.
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58664</guid>
-		<description><![CDATA[Les millénariaux font moins attention à la sécurité des données que leurs aînés, selon un sondage réalisé pour le compte de la firme Shred-it, qui se spécialise en services de destruction de l’information. Près de la moitié des millénariaux (48%) &#8230;]]></description>
-				<content:encoded><![CDATA[<p>Les millénariaux font moins attention à la sécurité des données que leurs aînés, selon un sondage réalisé pour le compte de la firme Shred-it, qui se spécialise en services de destruction de l’information.<img class="alignright wp-image-22917 size-full" src="https://www.directioninformatique.com/wp-content/uploads/2013/11/travail_bureau.jpg" alt="Illustration du concept du travail dans un bureau" width="225" height="200" /></p>
-<p>Près de la moitié des millénariaux (48%) laissent leur ordinateur portable posé sur leur bureau à la fin de la journée, contre 37% des membres de la génération X et 21% des baby-boomers, rapporte <a href="https://www.itbusiness.ca/news/millennials-to-blame-for-data-breaches-too-shred-it-claims/102729"><em>IT Business.ca</em>, une publication soeur de <em>Direction Informatique</em>.</a></p>
-<p>Après avoir terminé de travailler, 37% des 18-34 ans laissent leur ordinateur allumé sans le verrouiller, comparé à 22% des personnes de la génération X et de 12% des baby-boomers.</p>
-<p>« C’est assez surprenant de voir que les millénariaux ne prennent pas le problème de la sécurité des données autant au sérieux qu’ils le devraient, a indiqué, par communiqué, Paul Saabas, vice-président de Shred-it. Les résultats nous montrent que ce n’est pas parce qu’une personne jeune est à l’aise avec la technologie que cela signifie qu’elle est nécessairement suffisamment informée au sujet de la confidentialité et des risques associés aux données. »</p>
-<p><strong>Lire aussi : </strong></p>
-<p><a href="https://www.directioninformatique.com/environ-un-emploi-en-ti-sur-cinq-au-canada-se-trouve-a-montreal/55730">Environ un emploi en TI sur cinq au Canada se trouve à Montréal</a></p>
-<p><a href="https://www.directioninformatique.com/technologie-et-travail-impressions-divergentes-entre-les-generations/52939">Technologie et travail : impressions divergentes entre les générations</a></p>
-<p><a href="https://www.directioninformatique.com/les-donnees-de-millions-de-clients-dadidas-exposees/58638">Des données de millions de clients d’Adidas exposées</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/les-millenariaux-moins-soucieux-de-la-securite-donnees/58664/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Facebook bientôt offert en inuktut</title>
-		<link>https://www.directioninformatique.com/facebook-bientot-offert-en-inuktut/58660</link>
-		<comments>https://www.directioninformatique.com/facebook-bientot-offert-en-inuktut/58660#respond</comments>
-		<pubDate>Mon, 09 Jul 2018 17:46:33 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
+&lt;p&gt;
+My Next Move's state maps also feature updated data, showing which states have above average work opportunities for a given career. Click on "Check out my state" from career reports in My Next Move, Mi Próximo Paso, and My Next Move for Veterans.
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58660</guid>
-		<description><![CDATA[Facebook Canada se lance dans la traduction de son interface en inuktut, qui regroupe plusieurs langues inuites. Le réseau social invite les locuteurs de l’inuktut à utiliser l’application Traduisons Facebook, accessible depuis un ordinateur ou un appareil mobile, pour suggérer &#8230;]]></description>
-				<content:encoded><![CDATA[<p>Facebook Canada se lance dans la traduction de son interface en inuktut, qui regroupe plusieurs langues inuites.<img class="alignright wp-image-18516 size-full" src="https://www.directioninformatique.com/wp-content/uploads/2013/04/Facebook_logo_200_200.jpg" alt="Logo de Facebook" width="200" height="200" /></p>
-<p>Le réseau social invite les locuteurs de l’inuktut à utiliser l’application Traduisons Facebook, accessible depuis un ordinateur ou un appareil mobile, pour suggérer des traductions du contenu composant son interface.</p>
-<p>La communauté est appelée à se prononcer contre ou en faveur des propositions de traduction par un vote. Les propositions les plus approuvées seront adoptées.</p>
-<p>La mise en place de Facebook en inuktut est prévue pour l’année prochaine.</p>
-<p>Selon les chiffres du recensement effectué par Statistique Canada en 2016, les deux tiers des Inuits sont capables de converser en inuktut. Plus de la moitié des Inuits considèrent l’inuktut comme leur langue maternelle.</p>
-<p>« Nous avons collaboré étroitement avec des leaders autochtones de partout au Canada afin de mieux comprendre comment nous pouvons améliorer Facebook pour mieux servir leurs communautés. Une réponse importante que nous avons entendue est le véritable désir des peuples autochtones d&rsquo;utiliser Facebook dans leur propre langue, a expliqué, par communiqué, Kevin Chan, chef des politiques publiques chez Facebook Canada. La langue est cruciale pour connecter et bâtir des communautés. »</p>
-<p><strong>Lire aussi : </strong></p>
-<p><a href="https://www.directioninformatique.com/facebook-mise-sur-lafp-en-matiere-de-verification-dinformations/58384">Facebook mise sur l’AFP en matière de vérification d’informations</a></p>
-<p><a href="https://www.directioninformatique.com/facebook-ajoute-des-publicites-videos-dans-messenger/58179">Facebook ajoute des publicités vidéos dans Messenger</a></p>
-<p><a href="https://www.directioninformatique.com/action-collective-contre-facebook-au-canada/56981">Action collective contre Facebook au Canada</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/facebook-bientot-offert-en-inuktut/58660/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>L’IA au service de la santé numérique</title>
-		<link>https://www.directioninformatique.com/lia-au-service-de-la-sante-numerique/58656</link>
-		<comments>https://www.directioninformatique.com/lia-au-service-de-la-sante-numerique/58656#respond</comments>
-		<pubDate>Mon, 09 Jul 2018 16:35:22 +0000</pubDate>
-		<dc:creator><![CDATA[Fanny Bourel]]></dc:creator>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Nouvelles]]></category>
-		<category><![CDATA[assistant virtuel]]></category>
-		<category><![CDATA[Conseil national de recherches du Canada]]></category>
-		<category><![CDATA[données]]></category>
-		<category><![CDATA[Greybox Solutions]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Intelligence artificielle]]></category>
-		<category><![CDATA[numérique]]></category>
-		<category><![CDATA[santé]]></category>
+&lt;p&gt;
+Developers can access these updates via &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 17 Apr 2018 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>O*NET Sources of Additional Information Updated</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018031300</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018031300</guid>
+         <description>&lt;p&gt;
+Within the &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt; occupation reports, the Sources of Additional Information section provides customers with a list of sources external to the O*NET Program that offer occupationally relevant information, such as related jobs, specialties, and industries.
+&lt;/p&gt;
 
-		<guid isPermaLink="false">https://www.directioninformatique.com/?p=58656</guid>
-		<description><![CDATA[L’entreprise montréalaise Greybox Solutions et le Conseil national de recherches du Canada (CNRC) ont développé un outil de gestion des maladies chroniques intégrant de l’intelligence artificielle (IA). Cet outil, qui se veut être un assistant virtuel, s’arrime à TakeCare, la &#8230;]]></description>
-				<content:encoded><![CDATA[<p>L’entreprise montréalaise Greybox Solutions et le Conseil national de recherches du Canada (CNRC) ont développé un outil de gestion des maladies chroniques intégrant de l’intelligence artificielle (IA).</p>
-<div id="attachment_19207" style="width: 210px" class="wp-caption alignright"><img class="wp-image-19207 size-full" src="https://www.directioninformatique.com/wp-content/uploads/2013/05/cybersanté_200_200.jpg" alt="Illustration du concept de la cybersanté" width="200" height="200" /><p class="wp-caption-text">(Photo : Thinkstock)</p></div>
-<p>Cet outil, qui se veut être un assistant virtuel, s’arrime à TakeCare, la plateforme de surveillance de la santé conçue par Greybox.</p>
-<p>Il permet aux patients de suivre l’évolution de leur état de santé et de recueillir des données médicales ainsi que des informations au sujet de leur mode de vie. Ces données visent à aider les professionnels de santé à évaluer l’état de santé du patient et à fournir des recommandations personnalisées.</p>
-<p>L’assistant virtuel est programmé pour poser des questions personnalisées selon l&rsquo;état du patient. Il cible notamment des maladies comme le diabète, l’hypertension et l’insuffisance cardiaque.</p>
-<p>« Ce projet ayant pour but d&rsquo;offrir un outil de surveillance de la santé numérique et accessible (&#8230;) améliorera la santé des Canadiens et des Canadiennes, spécialement ceux qui habitent en région éloignée ou les personnes à mobilité réduite » a déclaré, par communiqué, Roman Szumski, vice-président, Sciences de la vie, Conseil national de recherches du Canada.</p>
-<p>Le déploiement commercial de cet assistant virtuel est prévu vers la fin de l’année.</p>
-<p><strong>Lire aussi : </strong></p>
-<p><a href="https://www.directioninformatique.com/soins-de-sante-acquisition-aux-etats-unis-pour-cgi/53124">Soins de santé : acquisition aux États-Unis pour CGI</a></p>
-<p><a href="https://www.directioninformatique.com/reacts-certifiee-par-le-ministere-de-la-sante/55485">Reacts certifiée par le ministère de la Santé</a></p>
-<p><a href="https://www.directioninformatique.com/gestion-medicale-petalmd-acquiert-xacte/57436">Gestion médicale : PetalMD acquiert Xacte</a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.directioninformatique.com/lia-au-service-de-la-sante-numerique/58656/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
- </channel>
+&lt;p&gt;
+605 occupations were updated with professional association information gathered directly from job incumbents and occupational experts via O*NET Data Collection. This report section is now populated within 896 occupations, providing 4,300+ linkages to additional sources of information for customers to explore.
+&lt;/p&gt;
+
+&lt;p&gt;
+Developers can access the data from &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+For a description of the update effort, see the report: &lt;a href="https://www.onetcenter.org/reports/Additional_Info.html"&gt;Updating O*NET® Sources of Additional Information Listings: Use of Job Incumbent and Occupational Expert Professional Association Membership&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 13 Mar 2018 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>Updated military occupations and BLS projections included in O*NET websites</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018022000</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018022000</guid>
+         <description>&lt;p&gt;
+The Military Occupational Classification (MOC) crosswalk has been updated by the Department of Defense (January 2018) and incorporated into &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt; and &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;. Over 13,000 MOC occupations are linked to related O*NET-SOC occupations. Within the &lt;a href="https://www.mynextmove.org/vets/find/military?b=&amp;s="&gt;O*NET Military Transition Search&lt;/a&gt;, the crosswalk is supplemented with additional sources of data. To learn more visit &lt;a href="https://www.onetcenter.org/crosswalks.html"&gt;O*NET Resource Center Crosswalks&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+The &lt;a href="https://www.bls.gov/emp/" title="https://www.bls.gov/emp/"&gt;Bureau of Labor Statistics (BLS)&lt;/a&gt;
+&lt;a href="https://www.onetcenter.org/exit?u=https%3A//www.bls.gov/emp/&amp;t=Bureau%20of%20Labor%20Statistics%20%28BLS%29" title="external site"&gt;&lt;img src="https://www.onetcenter.org/shared/image/external.svg" style="width: 12px; height: 12px" alt="external site"&gt;&lt;/a&gt; has released updated employment projections for 2016 - 2026. This information is now included within &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;, &lt;a href="https://www.mynextmove.org/"&gt;My Next Move&lt;/a&gt;, &lt;a href="https://www.miproximopaso.org/"&gt;Mi Próximo Paso&lt;/a&gt;, and &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;. The updated information is also incorporated within the &lt;a href="https://www.onetcenter.org/bright.html"&gt;Bright Outlook&lt;/a&gt; feature included within the O*NET sites.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 20 Feb 2018 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>O*NET Database and websites updated</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2018020600</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018020600</guid>
+         <description>&lt;p&gt;
+The 22.2 release of the O*NET database includes the following:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li style="margin-top: 0.5em; margin-bottom: 0.5em"&gt;158 technology skills and 45 tools related to 83 occupations were updated from employer job postings and other sources. Currently, 178 "hot technologies" are identified.&lt;/li&gt;
+&lt;li style="margin-top: 0.5em; margin-bottom: 0.5em"&gt;215 alternate titles related to 98 occupations were added from employer job postings and other sources.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+The new data is incorporated within &lt;a href="https://www.mynextmove.org/"&gt;My Next Move&lt;/a&gt;, &lt;a href="https://www.miproximopaso.org/"&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Learn more or download the database from our &lt;a href="https://www.onetcenter.org/database.html"&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 6 Feb 2018 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>New BLS projections and industry info in O*NET websites</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2017120500</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017120500</guid>
+         <description>&lt;p&gt;
+The &lt;a href="https://www.bls.gov/emp/" title="https://www.bls.gov/emp/"&gt;Bureau of Labor Statistics&lt;/a&gt;
+&lt;a href="https://www.onetcenter.org/exit?u=https%3A//www.bls.gov/emp/&amp;t=Bureau%20of%20Labor%20Statistics" title="external site"&gt;&lt;img src="https://www.onetcenter.org/shared/image/external.svg" style="width: 12px; height: 12px" alt="external site"&gt;&lt;/a&gt; (BLS) has released new employment projections for 2016 - 2026, along with updated industry employment data. This information is now included within &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;, &lt;a href="https://www.mynextmove.org/"&gt;My Next Move&lt;/a&gt;, &lt;a href="https://www.miproximopaso.org/"&gt;Mi Próximo Paso&lt;/a&gt;, and &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;. Importantly, this allows for the update of the &lt;a href="https://www.onetcenter.org/bright.html"&gt;Bright Outlook&lt;/a&gt; feature included within the O*NET sites. The Bright Outlook feature helps clients target careers where new job opportunities are likely in the future. The "Browse by Industry" searches within the O*NET sites were also updated to reflect more current employment patterns.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 5 Dec 2017 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>Enhancements made to My Next Move for Veterans</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2017111300</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017111300</guid>
+         <description>&lt;p&gt;
+The improved &lt;a href="https://www.mynextmove.org/vets/find/military?b=&amp;s="&gt;Military Search Feature&lt;/a&gt; within &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt; provides transitioning veterans with additional civilian career matches to explore.  The site’s Career Reports also now offer rich information about military classifications through direct links into &lt;a href="https://www.careersinthemilitary.com/" title="https://www.careersinthemilitary.com/"&gt;Careers in the Military&lt;/a&gt;
+&lt;a href="https://www.onetcenter.org/exit?u=https%3A//www.careersinthemilitary.com/&amp;t=Careers%20in%20the%20Military" title="external site"&gt;&lt;img src="https://www.onetcenter.org/shared/image/external.svg" style="width: 12px; height: 12px" alt="external site"&gt;&lt;/a&gt;. Finally, a new, interactive salary graphic is included within the Career Reports to aid veterans in understanding the often wide range of salaries associated with civilian careers.
+&lt;/p&gt;
+
+&lt;p&gt;
+To learn more about the O*NET Military Transition Search, which is also included within &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;, visit the &lt;a href="https://www.onetcenter.org/crosswalks.html"&gt;O*NET Resource Center-Crosswalks&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Mon, 13 Nov 2017 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>O*NET Database and websites updated</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2017102400</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017102400</guid>
+         <description>&lt;p&gt;
+The 22.1 release of the O*NET database includes the following:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li style="margin-top: 0.5em; margin-bottom: 0.5em"&gt;408 technology skills and 88 tools related to 132 occupations were updated from employer job postings and other sources. This update includes information linked to 50 occupations with a bright outlook and/or apprenticeship opportunities which underwent a “spotlight” or detailed review by occupational analysts.&lt;/li&gt;
+&lt;li style="margin-top: 0.5em; margin-bottom: 0.5em"&gt;352 alternate titles related to 151 occupations were added from employer job postings and other sources.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+The new data is incorporated within &lt;a href="https://www.mynextmove.org/"&gt;My Next Move&lt;/a&gt;, &lt;a href="https://www.miproximopaso.org/"&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Learn more or download the database from our &lt;a href="https://www.onetcenter.org/database.html"&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 24 Oct 2017 10:00:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>O*NET Database and websites updated</title>
+         <link>https://www.onetcenter.org/whatsnew.html#2017080100</link>
+         <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017080100</guid>
+         <description>&lt;p&gt;
+With the release of the O*NET 22.0 Database, data from job incumbents and occupational experts is now available for 966 O*NET-SOC occupations, of which 100 occupations were updated in this release. This release also updates the Alternate Titles and Sample of Reported Titles data for 121 occupations, from employer job postings and other sources, along with Detailed Work Activities for 38 occupations.
+&lt;/p&gt;
+
+&lt;p&gt;
+The new data is incorporated within &lt;a href="https://www.mynextmove.org/"&gt;My Next Move&lt;/a&gt;, &lt;a href="https://www.miproximopaso.org/"&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href="https://www.mynextmove.org/vets/"&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href="https://www.onetonline.org/"&gt;O*NET OnLine&lt;/a&gt;.
+Learn more or download the database from our &lt;a href="https://www.onetcenter.org/database.html"&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href="https://services.onetcenter.org/"&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;</description>
+         <pubDate>Tue, 1 Aug 2017 10:00:00 -0000</pubDate>
+      </item>
+   </channel>
 </rss>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../whatsnew.xsl" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>O*NET Resource Center</title>
+  <link>https://www.onetcenter.org/</link>
+  <atom:link href="https://www.onetcenter.org/rss/whatsnew.xml" rel="self" type="application/rss+xml" />
+  <description>The O*NET Resource Center is your source for O*NET data, career exploration tools, reports, and other O*NET products.</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 11 Jun 2018 22:04:53 -0000</lastBuildDate>
+  <image>
+    <url>https://www.onetcenter.org/shared/image/logos/center.gif</url>
+    <title>O*NET Resource Center</title>
+    <link>https://www.onetcenter.org/</link>
+    <width>110</width>
+    <height>50</height>
+    <description>O*NET Resource Center logo</description>
+  </image>
+  <item>
+    <title>Discover your interests while using O*NET OnLine</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018061200</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018061200</guid>
+    <description>&lt;p&gt;
+Easy access to the &lt;a href=&quot;https://www.onetcenter.org/IP.html&quot;&gt;O*NET Interest Profiler&lt;/a&gt;, popular within &lt;a href=&quot;https://www.mynextmove.org/explore/ip&quot;&gt;My Next Move&lt;/a&gt;, is now included within &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;!
+&lt;/p&gt;
+
+&lt;p&gt;
+Discover your interests: &lt;a href=&quot;https://www.onetonline.org/find/descriptor/browse/Interests/&quot;&gt;Browse by O*NET Data - Interests&lt;/a&gt; within the Advanced Search. Or, within each of OnLine’s occupation summary reports, see the “Interests” section to access the O*NET Interest Profiler.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 12 Jun 2018 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>Updated military occupations included in O*NET websites</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018052901</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018052901</guid>
+    <description>&lt;p&gt;
+The Military Occupational Classification (MOC) crosswalk has been updated by the Department of Defense (April 2018) and incorporated into &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt; and &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;. By supplementing this crosswalk with additional sources of data, both sites offer over 36,500 linkages between nearly 13,000 distinct MOC occupations and related O*NET-SOC occupations. Within the &lt;a href=&quot;https://www.mynextmove.org/vets/find/military?b=&amp;s=&quot;&gt;O*NET Military Transition Search&lt;/a&gt;, civilian career options are presented alongside helpful military links and information. To learn more, visit &lt;a href=&quot;https://www.onetcenter.org/crosswalks.html&quot;&gt;O*NET Resource Center Crosswalks&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+The updated search can also be accessed via &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 29 May 2018 11:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>O*NET Database and websites updated</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018050801</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018050801</guid>
+    <description>&lt;p&gt;
+The 22.3 release of the O*NET database includes the following:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li style=&quot;margin-top: 0.5em; margin-bottom: 0.5em&quot;&gt;460 technology skills related to 125 occupations were updated from employer job postings and other sources. Currently, 186 &quot;hot technologies&quot; are identified.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+&lt;li style=&quot;margin-top: 0.5em; margin-bottom: 0.5em&quot;&gt;273 alternate titles related to 120 occupations were added from employer job postings and other sources.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+The new data is incorporated within &lt;a href=&quot;https://www.mynextmove.org/&quot;&gt;My Next Move&lt;/a&gt;, &lt;a href=&quot;https://www.miproximopaso.org/&quot;&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Learn more or download the database from our &lt;a href=&quot;https://www.onetcenter.org/database.html&quot;&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 8 May 2018 11:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>2018 SOC Crosswalk in O*NET OnLine</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018050100</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018050100</guid>
+    <description>&lt;p&gt;
+To assist early adopters of the recently released 2018 Standard Occupational Classification (SOC), a crosswalk application from the new classification to the current O*NET-SOC 2010 Taxonomy is incorporated within O*NET OnLine. Customers can go to the &lt;a href=&quot;https://www.onetonline.org/crosswalk/SOC&quot;&gt;Crosswalk Search&lt;/a&gt; page and use a title or code from the 2018 SOC to find corresponding occupations within O*NET OnLine. To download the new crosswalk or to learn more about the transition to the 2018 SOC, visit the &lt;a href=&quot;https://www.onetcenter.org/taxonomy.html&quot;&gt;O*NET Taxonomy&lt;/a&gt; section of the O*NET Resource Center.
+&lt;/p&gt;
+
+&lt;p&gt;
+Developers can access the crosswalk via &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 1 May 2018 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>New BLS wage information in O*NET websites</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018041700</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018041700</guid>
+    <description>&lt;p&gt;
+The &lt;a href=&quot;https://www.bls.gov/oes/&quot; title=&quot;https://www.bls.gov/oes/&quot;&gt;Bureau of Labor Statistics (BLS)&lt;/a&gt;
+&lt;a href=&quot;https://www.onetcenter.org/exit?u=https%3A//www.bls.gov/oes/&amp;t=Bureau%20of%20Labor%20Statistics%20%28BLS%29&quot; title=&quot;external site&quot;&gt;&lt;img src=&quot;https://www.onetcenter.org/shared/image/external.svg&quot; style=&quot;width: 12px; height: 12px&quot; alt=&quot;external site&quot;&gt;&lt;/a&gt; has released wage estimates for 2017. The latest wages are now included in career reports within &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;, &lt;a href=&quot;https://www.mynextmove.org/&quot;&gt;My Next Move&lt;/a&gt;, &lt;a href=&quot;https://www.miproximopaso.org/&quot;&gt;Mi Próximo Paso&lt;/a&gt;, and &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+My Next Move's state maps also feature updated data, showing which states have above average work opportunities for a given career. Click on &quot;Check out my state&quot; from career reports in My Next Move, Mi Próximo Paso, and My Next Move for Veterans.
+&lt;/p&gt;
+
+&lt;p&gt;
+Developers can access these updates via &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 17 Apr 2018 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>O*NET Sources of Additional Information Updated</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018031300</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018031300</guid>
+    <description>&lt;p&gt;
+Within the &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt; occupation reports, the Sources of Additional Information section provides customers with a list of sources external to the O*NET Program that offer occupationally relevant information, such as related jobs, specialties, and industries.
+&lt;/p&gt;
+
+&lt;p&gt;
+605 occupations were updated with professional association information gathered directly from job incumbents and occupational experts via O*NET Data Collection. This report section is now populated within 896 occupations, providing 4,300+ linkages to additional sources of information for customers to explore.
+&lt;/p&gt;
+
+&lt;p&gt;
+Developers can access the data from &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+For a description of the update effort, see the report: &lt;a href=&quot;https://www.onetcenter.org/reports/Additional_Info.html&quot;&gt;Updating O*NET® Sources of Additional Information Listings: Use of Job Incumbent and Occupational Expert Professional Association Membership&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 13 Mar 2018 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>Updated military occupations and BLS projections included in O*NET websites</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018022000</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018022000</guid>
+    <description>&lt;p&gt;
+The Military Occupational Classification (MOC) crosswalk has been updated by the Department of Defense (January 2018) and incorporated into &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt; and &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;. Over 13,000 MOC occupations are linked to related O*NET-SOC occupations. Within the &lt;a href=&quot;https://www.mynextmove.org/vets/find/military?b=&amp;s=&quot;&gt;O*NET Military Transition Search&lt;/a&gt;, the crosswalk is supplemented with additional sources of data. To learn more visit &lt;a href=&quot;https://www.onetcenter.org/crosswalks.html&quot;&gt;O*NET Resource Center Crosswalks&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+The &lt;a href=&quot;https://www.bls.gov/emp/&quot; title=&quot;https://www.bls.gov/emp/&quot;&gt;Bureau of Labor Statistics (BLS)&lt;/a&gt;
+&lt;a href=&quot;https://www.onetcenter.org/exit?u=https%3A//www.bls.gov/emp/&amp;t=Bureau%20of%20Labor%20Statistics%20%28BLS%29&quot; title=&quot;external site&quot;&gt;&lt;img src=&quot;https://www.onetcenter.org/shared/image/external.svg&quot; style=&quot;width: 12px; height: 12px&quot; alt=&quot;external site&quot;&gt;&lt;/a&gt; has released updated employment projections for 2016 - 2026. This information is now included within &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;, &lt;a href=&quot;https://www.mynextmove.org/&quot;&gt;My Next Move&lt;/a&gt;, &lt;a href=&quot;https://www.miproximopaso.org/&quot;&gt;Mi Próximo Paso&lt;/a&gt;, and &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;. The updated information is also incorporated within the &lt;a href=&quot;https://www.onetcenter.org/bright.html&quot;&gt;Bright Outlook&lt;/a&gt; feature included within the O*NET sites.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 20 Feb 2018 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>O*NET Database and websites updated</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2018020600</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2018020600</guid>
+    <description>&lt;p&gt;
+The 22.2 release of the O*NET database includes the following:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li style=&quot;margin-top: 0.5em; margin-bottom: 0.5em&quot;&gt;158 technology skills and 45 tools related to 83 occupations were updated from employer job postings and other sources. Currently, 178 &quot;hot technologies&quot; are identified.&lt;/li&gt;
+&lt;li style=&quot;margin-top: 0.5em; margin-bottom: 0.5em&quot;&gt;215 alternate titles related to 98 occupations were added from employer job postings and other sources.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+The new data is incorporated within &lt;a href=&quot;https://www.mynextmove.org/&quot;&gt;My Next Move&lt;/a&gt;, &lt;a href=&quot;https://www.miproximopaso.org/&quot;&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Learn more or download the database from our &lt;a href=&quot;https://www.onetcenter.org/database.html&quot;&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 6 Feb 2018 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>New BLS projections and industry info in O*NET websites </title>
+    <link>https://www.onetcenter.org/whatsnew.html#2017120500</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017120500</guid>
+    <description>&lt;p&gt;
+The &lt;a href=&quot;https://www.bls.gov/emp/&quot; title=&quot;https://www.bls.gov/emp/&quot;&gt;Bureau of Labor Statistics&lt;/a&gt;
+&lt;a href=&quot;https://www.onetcenter.org/exit?u=https%3A//www.bls.gov/emp/&amp;t=Bureau%20of%20Labor%20Statistics&quot; title=&quot;external site&quot;&gt;&lt;img src=&quot;https://www.onetcenter.org/shared/image/external.svg&quot; style=&quot;width: 12px; height: 12px&quot; alt=&quot;external site&quot;&gt;&lt;/a&gt; (BLS) has released new employment projections for 2016 - 2026, along with updated industry employment data. This information is now included within &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;, &lt;a href=&quot;https://www.mynextmove.org/&quot;&gt;My Next Move&lt;/a&gt;, &lt;a href=&quot;https://www.miproximopaso.org/&quot;&gt;Mi Próximo Paso&lt;/a&gt;, and &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;. Importantly, this allows for the update of the &lt;a href=&quot;https://www.onetcenter.org/bright.html&quot;&gt;Bright Outlook&lt;/a&gt; feature included within the O*NET sites. The Bright Outlook feature helps clients target careers where new job opportunities are likely in the future. The &quot;Browse by Industry&quot; searches within the O*NET sites were also updated to reflect more current employment patterns.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 5 Dec 2017 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>Enhancements made to My Next Move for Veterans</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2017111300</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017111300</guid>
+    <description>&lt;p&gt;
+The improved &lt;a href=&quot;https://www.mynextmove.org/vets/find/military?b=&amp;s=&quot;&gt;Military Search Feature&lt;/a&gt; within &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt; provides transitioning veterans with additional civilian career matches to explore.  The site’s Career Reports also now offer rich information about military classifications through direct links into &lt;a href=&quot;https://www.careersinthemilitary.com/&quot; title=&quot;https://www.careersinthemilitary.com/&quot;&gt;Careers in the Military&lt;/a&gt;
+&lt;a href=&quot;https://www.onetcenter.org/exit?u=https%3A//www.careersinthemilitary.com/&amp;t=Careers%20in%20the%20Military&quot; title=&quot;external site&quot;&gt;&lt;img src=&quot;https://www.onetcenter.org/shared/image/external.svg&quot; style=&quot;width: 12px; height: 12px&quot; alt=&quot;external site&quot;&gt;&lt;/a&gt;. Finally, a new, interactive salary graphic is included within the Career Reports to aid veterans in understanding the often wide range of salaries associated with civilian careers.
+&lt;/p&gt;
+
+&lt;p&gt;
+To learn more about the O*NET Military Transition Search, which is also included within &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;, visit the &lt;a href=&quot;https://www.onetcenter.org/crosswalks.html&quot;&gt;O*NET Resource Center-Crosswalks&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Mon, 13 Nov 2017 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>O*NET Database and websites updated</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2017102400</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017102400</guid>
+    <description>&lt;p&gt;
+The 22.1 release of the O*NET database includes the following:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li style=&quot;margin-top: 0.5em; margin-bottom: 0.5em&quot;&gt;408 technology skills and 88 tools related to 132 occupations were updated from employer job postings and other sources. This update includes information linked to 50 occupations with a bright outlook and/or apprenticeship opportunities which underwent a “spotlight” or detailed review by occupational analysts.&lt;/li&gt;
+&lt;li style=&quot;margin-top: 0.5em; margin-bottom: 0.5em&quot;&gt;352 alternate titles related to 151 occupations were added from employer job postings and other sources.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+The new data is incorporated within &lt;a href=&quot;https://www.mynextmove.org/&quot;&gt;My Next Move&lt;/a&gt;, &lt;a href=&quot;https://www.miproximopaso.org/&quot;&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Learn more or download the database from our &lt;a href=&quot;https://www.onetcenter.org/database.html&quot;&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 24 Oct 2017 10:00:00 -0000</pubDate>
+  </item>
+  <item>
+    <title>O*NET Database and websites updated</title>
+    <link>https://www.onetcenter.org/whatsnew.html#2017080100</link>
+    <guid isPermaLink="true">https://www.onetcenter.org/whatsnew.html#2017080100</guid>
+    <description>&lt;p&gt;
+With the release of the O*NET 22.0 Database, data from job incumbents and occupational experts is now available for 966 O*NET-SOC occupations, of which 100 occupations were updated in this release. This release also updates the Alternate Titles and Sample of Reported Titles data for 121 occupations, from employer job postings and other sources, along with Detailed Work Activities for 38 occupations.
+&lt;/p&gt;
+
+&lt;p&gt;
+The new data is incorporated within &lt;a href=&quot;https://www.mynextmove.org/&quot;&gt;My Next Move&lt;/a&gt;, &lt;a href=&quot;https://www.miproximopaso.org/&quot;&gt;Mi Próximo Paso&lt;/a&gt;, &lt;a href=&quot;https://www.mynextmove.org/vets/&quot;&gt;My Next Move for Veterans&lt;/a&gt;, and &lt;a href=&quot;https://www.onetonline.org/&quot;&gt;O*NET OnLine&lt;/a&gt;.
+Learn more or download the database from our &lt;a href=&quot;https://www.onetcenter.org/database.html&quot;&gt;Developer's Corner&lt;/a&gt;. Developers can also access the latest data from &lt;a href=&quot;https://services.onetcenter.org/&quot;&gt;O*NET Web Services&lt;/a&gt;.
+&lt;/p&gt;
+
+</description>
+    <pubDate>Tue, 1 Aug 2017 10:00:00 -0000</pubDate>
+  </item>
+</channel>
+</rss>
